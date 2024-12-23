@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:latest",
+  "features": {
+    "ghcr.io/devcontainers-extra/features/typescript:latest": {},
+    "ghcr.io/devcontainers/features/aws-cli:latest": {},
+		"ghcr.io/devcontainers/features/github-cli:1": {},
+		"ghcr.io/devcontainers-contrib/features/aws-cdk:2": {}
+  }
+}
